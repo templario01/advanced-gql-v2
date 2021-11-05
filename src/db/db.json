@@ -8,8 +8,99 @@
       "avatar": "http",
       "createdAt": 1571213104370,
       "id": "Z2hlvDmLOSRZGebC_Z_aA"
+    },
+    {
+      "email": "master@code.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": true,
+      "avatar": "http",
+      "createdAt": 1635983181161,
+      "id": "S4aRzAyp9eCU9yEO_rYIm"
+    },
+    {
+      "email": "victor@code.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1636042596851,
+      "id": "xIGo6THrMaHBc6tsf-WDV"
+    },
+    {
+      "email": "victor2@code.com",
+      "password": "password",
+      "role": "MEMBER",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1636043635861,
+      "id": "iNsBWGhBOdy7Q0OQBNv-6"
+    },
+    {
+      "email": "hello@yo.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1636054749331,
+      "id": "HBNOzGg9IOn6xFFia94Eh"
+    },
+    {
+      "email": "hello2@yo.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1636055079075,
+      "id": "4HYRtuWVTxE_nEnw2hnkQ"
+    },
+    {
+      "email": "hello3@yo.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1636055187995,
+      "id": "D65eGu02LurnlZf55MRec"
     }
   ],
-  "posts": [],
+  "posts": [
+    {
+      "message": "hello there",
+      "author": "HBNOzGg9IOn6xFFia94Eh",
+      "createdAt": 1636054933872,
+      "id": "mFhg3QXaxJ6GCRPJGkBLu"
+    },
+    {
+      "message": "hello new there",
+      "author": "HBNOzGg9IOn6xFFia94Eh",
+      "createdAt": 1636055004151,
+      "id": "NvtReU3UIMeMJxDLrwc9n"
+    },
+    {
+      "message": "hello new there",
+      "author": "HBNOzGg9IOn6xFFia94Eh",
+      "createdAt": 1636055014835,
+      "id": "sMcJL3qJdXueX0z1WZydp"
+    },
+    {
+      "message": "hello new there",
+      "author": "4HYRtuWVTxE_nEnw2hnkQ",
+      "createdAt": 1636055102390,
+      "id": "QipNHTUjO16hQp7JbkslN"
+    },
+    {
+      "message": "hello new third message",
+      "author": "4HYRtuWVTxE_nEnw2hnkQ",
+      "createdAt": 1636055161157,
+      "id": "YToOD9UnjjqHBvG1Lpshc"
+    },
+    {
+      "message": "yo post papis",
+      "author": "D65eGu02LurnlZf55MRec",
+      "createdAt": 1636055232762,
+      "id": "VAB5a2slcCYJpD7zJGwfx"
+    }
+  ],
   "settings": []
 }
