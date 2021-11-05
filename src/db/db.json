@@ -62,6 +62,24 @@
       "avatar": "http",
       "createdAt": 1636055187995,
       "id": "D65eGu02LurnlZf55MRec"
+    },
+    {
+      "email": "hello4@yo.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1636128927645,
+      "id": "_ROXDdNNueFIg8QaiDEJ5"
+    },
+    {
+      "email": "hello5@yo.com",
+      "password": "password",
+      "role": "MEMBER",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1636129027975,
+      "id": "gXelsygtGvVQU8tm2aMy8"
     }
   ],
   "posts": [
