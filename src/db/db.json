@@ -80,6 +80,24 @@
       "avatar": "http",
       "createdAt": 1636129027975,
       "id": "gXelsygtGvVQU8tm2aMy8"
+    },
+    {
+      "email": "hello6@yo.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1636129538336,
+      "id": "nqHxEYqZItUu4KDyw_hS5"
+    },
+    {
+      "email": "victor3@code.com",
+      "password": "password",
+      "role": "MEMBER",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1636669080184,
+      "id": "fcJTbfmsI5bjSr-mIvdV0"
     }
   ],
   "posts": [
@@ -118,6 +136,24 @@
       "author": "D65eGu02LurnlZf55MRec",
       "createdAt": 1636055232762,
       "id": "VAB5a2slcCYJpD7zJGwfx"
+    },
+    {
+      "message": "yo post papis",
+      "author": "fcJTbfmsI5bjSr-mIvdV0",
+      "createdAt": 1636669098306,
+      "id": "3aFs3AovTtiHU0bGznq_c"
+    },
+    {
+      "message": "yo post papis",
+      "author": "fcJTbfmsI5bjSr-mIvdV0",
+      "createdAt": 1636669113120,
+      "id": "9JRPGaHgmFwKBY0MIV2jJ"
+    },
+    {
+      "message": "yo nnnnnnn papis",
+      "author": "fcJTbfmsI5bjSr-mIvdV0",
+      "createdAt": 1636669121183,
+      "id": "rLeqbbwK3WnIt84sRnvLY"
     }
   ],
   "settings": []
